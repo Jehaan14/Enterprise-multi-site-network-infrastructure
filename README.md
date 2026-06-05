@@ -3,6 +3,10 @@ Enterprise Multi-Site Network Infrastructure using Cisco Packet Tracer with VLAN
 
 # Enterprise Multi-Site Network Infrastructure
 
+## Topology
+
+![Topology](Topology.png)
+
 ## Overview
 
 This project simulates a multi-site enterprise network using Cisco Packet Tracer. The topology consists of a headquarters network, branch office connectivity, departmental VLANs, and centralized network services including DHCP, DNS, Web, and Email servers.
